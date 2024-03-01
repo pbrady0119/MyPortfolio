@@ -1,0 +1,1 @@
+$(".resume").window.open("./Resume.pdf")

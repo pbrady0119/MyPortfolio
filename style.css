@@ -1,0 +1,124 @@
+.gradient-background {
+    background: linear-gradient(100deg, #006f94, #4273bd, #9dc3f5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+   
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  h1{
+    color: snow;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: rgb(204, 201, 201);;    
+
+      }
+    
+  
+  h2{
+    color: rgb(204, 201, 201);
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 100;
+    font-style: italic
+  }
+  #intro{
+    color: rgb(204, 201, 201);
+  }
+  img{
+    border-radius: 18%;
+
+  }
+ 
+  /* @media (max-width: 600px) {
+      #resume{
+          width: 100%;
+      }
+  }
+  @media (min-width: 601px) {
+    #resume{
+          width: 100%;
+      }
+  
+  }
+  
+  @media (min-width: 768px) {
+    #resume{
+          width: 100%;
+      }
+  } */
+  
+
+  .profile-img{
+    
+    border-radius: 50%;
+    height: 180px; 
+    width: 180px;
+    padding: 10px;
+    
+  }
+.profile{
+    display: grid;
+    text-align: center;
+    padding: 4rem;
+  }
+.icon-square{
+
+  border-radius: 0.75rem;
+  
+}
+
+   
+  .personal-sum{
+    font-family: "roboto", sans serif;
+    line-height: 2;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin: 3rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    
+  }
+  @media (max-width: 1500px) {
+    .personal-sum{
+        margin-block-start: .6em;
+        margin-block-end: .6em;
+        margin: 1.5rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+
+    }
+  }
+  @media (max-width: 770px) {
+    .personal-sum{
+        margin-block-start: .3em;
+        margin-block-end: .3em;
+        margin: 0.7rem;
+    }
+  }
+    @media (max-width: 600px) {
+      .personal-sum{
+          margin-block-start: .1em;
+          margin-block-end: .1em;
+          margin: 0.1rem;
+          padding-left: 0.1rem;
+          padding-right: 0.1rem;
+      }
+  }
+  .work{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

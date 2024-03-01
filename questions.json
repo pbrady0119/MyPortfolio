@@ -1,0 +1,93 @@
+
+[
+    {
+        "question": "The Declaration of Independence was adopted on July 4th, 1776, with 12 of the 13 colonies approving it. Which colony originally abstained?",
+        "choice1": "Delaware",
+        "choice2": "South Carolina",
+        "choice3": "New York",
+        "choice4": "Virginia",
+        "answer": 3,
+        "anstext": "C, 'New York'. The real start of the New York, Boston rivaly"
+    },
+    {
+        "question": "Who was the second President of the United States?",
+        "choice1": "James Madison",
+        "choice2": "Thomas Jefferson",
+        "choice3": "James Monroe",
+        "choice4": "John Adams",
+        "answer": 4,
+        "anstext": "D, 'John Adams'.' Adams's was also the nations 1st Vice President."
+    },
+    {
+        "question": "How long was the Gettysburg address?",
+        "choice1": "269 words",
+        "choice2": "1233 words",
+        "choice3": "10200 words",
+        "choice4": "4454 words",
+        "answer": 1,
+        "anstext": "A, '269 words'. Something to keep in mind before sending an overly long email!"
+    },
+    {
+        "question": "How many years of formal education did Benjamin Franklin have?",
+        "choice1": "8",
+        "choice2": "11",
+        "choice3": "2",
+        "choice4": "5",
+        "answer": 3,
+        "anstext": "C, '2'. Franklin went on to receive honorary doctorates from Harvard, Yale, William and Mary, St. Andrews (Scotland) and Oxford."
+    },
+    {
+        "question": "How much did America pay for the purchase of Alaska in 1867?",
+        "choice1": "$10.1 million",
+        "choice2": "$7.2 million",
+        "choice3": "$999.8k",
+        "choice4": "$12.3 million",
+        "answer": 2,
+        "anstext": "B, '$7.2 million'. That equates to 122 million dollars today, still a bargain."
+    },
+    {
+        "question": "Which of the following were independent countries before joining the United States?",
+        "choice1": "Nevada and Utah",
+        "choice2": "Texas and California",
+        "choice3": "North Dakota and South Dakota",
+        "choice4": "Vermont and Texas",
+        "answer": 4,
+        "anstext": "D, 'Vermont and Texas'. I feel like most people would guess Texas, but Vermont?"
+    },
+    {
+        "question": "What year did American currency officially go off the 'gold standard'?",
+        "choice1": "1917",
+        "choice2": "1889",
+        "choice3": "1933",
+        "choice4": "American currency was never backed by gold",
+        "answer": 3,
+        "anstext": "C, '1933'. Another casualty of the Great Depression."
+    },
+    {
+        "question": "Which right falls under the sixth amendment?",
+        "choice1": "Right against illegal searches and seizures",
+        "choice2": "Right to freedom of speech",
+        "choice3": "Right to a fair and speedy trial",
+        "choice4": "Right against self incrimination",
+        "answer": 3,
+        "anstext": "C, 'Right to a fair and speedy trial'. The 6th amendment guarantees the rights of criminal defendants."
+    },
+    {
+        "question": "Which of the following has the shortest Presidency in U.S. history, totaling just 31 days?",
+        "choice1": "William Henry Harrison",
+        "choice2": "James Garfield",
+        "choice3": "William Howard Taft",
+        "choice4": "William McKinley",
+        "answer": 1,
+        "anstext": "A, 'William Henry Harrison'. Harrison is thought to have died due to complications with pneumonia."
+    },
+    {
+        "question": "What Native American tribe did Sacagawea belong to?",
+        "choice1": "Shawnee",
+        "choice2": "Shoshone",
+        "choice3": "Cherokee",
+        "choice4": "Iroquois",
+        "answer": 2,
+        "anstext": "B, 'Shoshone'. Constantly overlooked, without aid from Native people's the United States as we know it may not exist."
+    }
+]

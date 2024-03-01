@@ -1,0 +1,75 @@
+body{
+
+    background: linear-gradient(100deg, #006f94, #4273bd, #9dc3f5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 5rem;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 5rem;
+    color: whitesmoke;
+}
+@media (max-width: 600px) {
+    h1{
+        font-size: 2rem;
+        padding-top: 2rem
+       
+    }
+}
+.score{
+    display: flex;
+    justify-content: center;
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1rem;
+    
+}
+@media (max-width: 600px) {
+    .score{
+        font-size: 1rem;
+        padding: 0.1rem;
+       
+    }
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1rem;
+    font-size: 3.5rem;
+
+}
+@media (max-width: 600px) {
+    h3{
+        font-size: 2rem;
+        padding: 0.1rem;
+       
+    }
+}
+
+#churchill{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 1.5rem;
+    padding: 4rem;
+}
+@media (max-width: 600px) {
+    #churchill{
+        font-size: 0.9rem;
+        padding: 0.1rem;
+       
+    }
+}
+

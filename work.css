@@ -1,0 +1,33 @@
+.grid-container{
+    height: 100vh;
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: 5fr 1fr;
+    margin-left: 2rem;
+    padding-top: 1rem;
+}
+
+
+#panel{
+    background-color: #FAF7FF;
+    background-image: 
+        radial-gradient(
+            circle,
+            transparent 1.24rem,
+            #FAF7FF 1rem),
+        
+        linear-gradient(
+            #4273bd .1rem,
+            transparent 5rem),
+
+        linear-gradient(
+            90deg,
+            #3D997B .1rem,
+            transparent 3.5rem);
+    background-size: 2rem 2rem, 1rem 1rem, 1rem 1rem;
+    background-position: 3.5rem 3.5rem, 2.5rem 2.5rem, 2.5rem 2.5rem;
+}
+
+.summary{
+    font-weight: 600;
+}
