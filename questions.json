@@ -7,7 +7,7 @@
         "choice3": "New York",
         "choice4": "Virginia",
         "answer": 3,
-        "anstext": "C, 'New York'. The real start of the New York, Boston rivaly"
+        "anstext": "C, 'New York'. The real start of the New York, Boston rivalry"
     },
     {
         "question": "Who was the second President of the United States?",
@@ -16,7 +16,7 @@
         "choice3": "James Monroe",
         "choice4": "John Adams",
         "answer": 4,
-        "anstext": "D, 'John Adams'.' Adams's was also the nations 1st Vice President."
+        "anstext": "D, 'John Adams'. Adams was also the nation's 1st Vice President."
     },
     {
         "question": "How long was the Gettysburg address?",
@@ -88,6 +88,6 @@
         "choice3": "Cherokee",
         "choice4": "Iroquois",
         "answer": 2,
-        "anstext": "B, 'Shoshone'. Constantly overlooked, without aid from Native people's the United States as we know it may not exist."
+        "anstext": "B, 'Shoshone'. Constantly overlooked, without aid from Native peoples the United States as we know it may not exist."
     }
 ]
